@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.498aae44.css",
+    "main.js": "/landing-page/static/js/main.5c8a86bd.js",
+    "static/media/ai.png": "/landing-page/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/landing-page/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/landing-page/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/landing-page/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/landing-page/index.html",
+    "main.498aae44.css.map": "/landing-page/static/css/main.498aae44.css.map",
+    "main.5c8a86bd.js.map": "/landing-page/static/js/main.5c8a86bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498aae44.css",
+    "static/js/main.5c8a86bd.js"
+  ]
+}
